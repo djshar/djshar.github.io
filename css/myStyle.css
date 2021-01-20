@@ -1,6 +1,6 @@
 li {list-style:none;} 
 body{background-color:black;} 
-h1{color:red;}
+h1{font-color:red;}
 #tep li{position:relative;   background-image: url("../images/button.png"); display:inline; background-color:yellow; float:top;}
 header{text-align:center; color:white; background-color:black; position:relative; float:center;} 
 .nav1{border: 2px solid blue; height:800px; position:relative; background-color:#FFFFCC; float:left; padding:5px} 
